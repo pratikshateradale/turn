@@ -3,6 +3,6 @@ public class MDemo
 public static void main(string args [])
 
 {
-system.out.println("main start")
+system.out.println("hello world")
 }
 }
